@@ -1,0 +1,19 @@
+﻿/* styles.css */
+#portfolio {
+    text-align: center;
+    background-color: #f7f7f7; /* Add the background color you prefer */
+    padding: 20px;
+}
+
+.portfolio-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Adjust the height as needed */
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
